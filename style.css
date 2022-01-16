@@ -1,0 +1,9 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+@media only screen and (max-width: 992px) {
+    .input-group{
+        width: 100%!important;
+    }
+  }
